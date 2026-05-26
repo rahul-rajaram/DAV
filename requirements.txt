@@ -1,0 +1,5 @@
+Google colab
+Jupyter Notebook
+pandas
+matplotlib
+openpyxl
